@@ -14,7 +14,9 @@ These methods/techniques were applied to a census dataset and a education datase
 
 # Data Source
 + Data was retrieved from: 
+
 https://www.kaggle.com/datasets/muonneutrino/us-census-demographic-data **(Census Dataset)**
+
 https://www.ers.usda.gov/data-products/county-level-data-sets/download-data/ **(Education Dataset)**
 
 # Author
