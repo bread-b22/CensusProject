@@ -1,6 +1,8 @@
 # Census and Education Project
 The purpose of this project is to showcase the capabilites of machine learning methods and techniques in data analysis using R. 
 
+**Where should I start?** The .pdf file is a knitted R Markdown file of all the code, and contains the necessary code/explanations to understand the full project. The .Rmd file is less readable, but contains the full code in case you are interested in every line that went into creating the pdf.
+
 Here are some of the methods/techniques used:
 + Principal Component Analysis
 + Random Forests
